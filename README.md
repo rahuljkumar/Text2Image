@@ -1,3 +1,10 @@
-# Text2Image
+# Text2Image (Image Generator)
 
-This is a Text to Image converter project. Based on the input prompt provided (text), the program generates a photorealistic image of a person.
+# EpiCRealism: Generating Photorealistic Images Stable Diffusion Models and upscaling using Real-ESRGAN
+
+Functionality
+- Generates an image based on a text prompt using the Stable Diffusion model.
+- Upscales and enhances the generated image using Real-ESRGAN with face enhancement.
+
+
+
